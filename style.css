@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    color:indianred;
+    text-align: center;
+}
+
+h3 {
+    color: tomato;
+}
+
+a:link {
+    text-decoration: none;
+    color: tomato;
+}
+a:hover {
+    text-decoration: underline;    
+}
+
+td {
+    padding: 10px;
+}
